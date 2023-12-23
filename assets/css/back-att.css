@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(50%,25%,50%);
+}
+.box{
+    width: 800px;
+    height: 500px;
+    margin: 100px auto 0px auto;
+    border: 10px solid #000;
+    color: rgb(49, 246, 39);
+    overflow: auto;
+    background-image: url("E:/CSS/image/Windows 10 Hidden Wallpapers   Build 10130 by WandersonS13 on.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 3pc;
+    
+}
+p{
+    margin: 20px;
+}

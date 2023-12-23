@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* text-align: center; */
+}
+p{
+    color: red;
+    text-align: center;
+    font-size: 5cap;
+
+}
+p1{
+    
+    color: rgb(118, 42, text114);
+    font-size: 3.5cap;
+    margin-left: 30%;
+    
+   
+}
+.color p4{
+ color: tomato;
+ font-size: 2cap;
+}
+p5{
+    color: #ee82ee;
+    font-size: 2cap;
+}
+p6{
+    color: hsl(0, 100%, 25%);
+    font-size: 2cap;
+}

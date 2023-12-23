@@ -1,0 +1,16 @@
+ body{
+    background-image: url("E:/CSS/image/office_laptop-wallpaper-2560x1080.jpg"),
+    url();
+    background-size: cover;
+} 
+
+/* .bg{
+    width: 1000px;
+    height: 500px;
+    border: 2px solid  black;
+    font-size: 22px;
+    padding: 5px;
+    color: white;
+    background-image: url("E:/CSS/image/anime.jpg.jpg");
+    background-size: cover;
+} */

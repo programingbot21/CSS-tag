@@ -1,0 +1,69 @@
+/* universal sel */
+*body{
+    margin: 0;
+    padding: auto;
+}
+/* Element sle */
+h1{
+    font-size: 3cap;
+    color: aqua;
+}
+p1{
+    font-size: 3cap;
+    color: red;
+}
+p2{
+    font-size: 3cap;
+    color: blue;
+}
+p3{
+    font-size: 3cap;
+    color: black;
+}
+p4{
+    font-size: 3cap;
+    color: tomato;
+}
+ /* id selector */
+ #sel {
+    font-size: 4cap;
+    color: darkmagenta;
+    font-weight: bold;
+ }
+
+ /* class sel */
+
+ .selector{
+    font-size: 2cap;
+    background-color: aquamarine;
+    color: brown;
+ }
+
+ /* Grouping sel */
+ h4{
+    color: burlywood;
+ }
+ p{
+    color: chartreuse;
+ }
+ .box  p7{
+    color: red;
+ }
+ .box > p8{
+    color: gold;
+ }
+ h5 + p9{
+    font-size: 3cap;
+ }
+
+ h6 ~ p10{
+    font-size: 3cap;
+ }
+ input[type='text'] {
+    border: 2px solid tomato;
+ }
+
+ .bo p:first-child   p:last-child{
+    color: brown;
+    font-size: 2cap;
+ }
