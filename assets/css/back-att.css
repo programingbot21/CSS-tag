@@ -12,6 +12,9 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-size: 3pc;
+
+    /* shorthand */
+    /* background: url("E:/CSS/image/Windows 10 Hidden Wallpapers   Build 10130 by WandersonS13 on.jpg")  no-repeat  right top fixed; */
     
 }
 p{
