@@ -1,0 +1,30 @@
+header{
+    text-align: center;
+}
+
+main{
+   margin-left: 180px;
+
+}
+.text{
+    display: block;
+    float: left;
+    
+   width: 20%;
+    margin: left;
+    padding: 10px;
+    padding-left: 12px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+img{
+    width: 100%;
+    border-radius: 5px;
+
+}
+img:hover{
+    transform: scale(2 ,2);
+    transition: 1s transform;
+    border-radius: 5px;
+
+}

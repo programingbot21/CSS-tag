@@ -1,0 +1,9 @@
+.fix{
+    width: 200px;
+    height: 200px;
+    border: 5px solid greenyellow;
+    background-color: aqua;
+    position: sticky;
+    top: 30px;
+    left: 80px;
+}
